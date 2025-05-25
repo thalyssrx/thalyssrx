@@ -2,4 +2,3 @@
 
 - 🔭 Trabalhando atualmente em front-end
 - 🌱 Atualmente estudando Javascript com foco no framework Vue.js 3
-- 😄 Pronomes: ele/dele
